@@ -5,8 +5,8 @@
 **Programme:** Diploma in Information Technology (IF), 3rd Semester, K-Scheme (MSBTE)
 **Institute:** Government Polytechnic, Jalgaon
 **Academic Year:** 2026-27
-**Repository:** github.com/huzefapatel31/hrms-oracle-sql
-
+**My Repository:** github.com/NiraliPatil2008/hrms-oracle-sql-project  
+**Original/Group Repository:** github.com/huzefapatel31/hrms-oracle-sql
 ---
 
 ## About the Project
@@ -152,7 +152,18 @@ All tables have atomic values (1NF), use single-column primary keys so there is 
 
 ---
 
+## Group Project & Contributors
+
+This project was developed as a group micro-project for the Database Management System course.
+
+**Original/Group Repository:** https://github.com/huzefapatel31/hrms-oracle-sql
+
+**Contributors:**
+- Huzefa Patel
+- Nirali Patil
+
 ## Author
 
-Student, Diploma in Information Technology (3rd Semester, K-Scheme)
+Nirali Patil  
+Diploma in Information Technology (3rd Semester, K-Scheme)  
 Government Polytechnic, Jalgaon
